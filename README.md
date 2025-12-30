@@ -53,4 +53,7 @@ Portfolio/GitHub: @Jahir-tawhid
 
 Specialization: Next.js | TypeScript | AI Integration
 
+# Live Link:
+https://jahir-tawhid.github.io/logic_problems/
+
 ## "Logic is the beginning of wisdom, not the end." — Spock
